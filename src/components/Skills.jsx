@@ -7,7 +7,7 @@ const Skills = () => {
       skills: []
     },
     {
-      category: 'React / Next.js / Vue',
+      category: 'React',
       skills: []
     },
     {
@@ -15,19 +15,19 @@ const Skills = () => {
       skills: []
     },
     {
-      category: 'PostgreSQL / MongoDB / SQL',
+      category: 'PostgreSQL / MongoDB / SQL / Oracle',
       skills: []
     },
     {
-      category: 'Docker',
+      category: 'MySQL',
       skills: []
     },
     {
-      category: 'API Integration (REST / GraphQL / SOAP / Kafka / RabbitMQ)',
+      category: 'API Integration (REST / GraphQL)',
       skills: []
     },
     {
-      category: 'UX/UI - Chakra UI / AntD / PrimeNG / Styled Components',
+      category: 'UX/UI - Styled Components',
       skills: []
     },
     {

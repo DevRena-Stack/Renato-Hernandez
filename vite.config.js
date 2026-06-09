@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: './', // <--- CAMBIA ESTO de '/Pag_Perfil-renato/' a './'
+  base: './',
   build: {
     outDir: 'docs'
   },

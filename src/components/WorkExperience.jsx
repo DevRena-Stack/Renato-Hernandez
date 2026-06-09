@@ -3,15 +3,15 @@ import './WorkExperience.css'
 const WorkExperience = () => {
   const experiences = [
     {
-      title: 'Desarrollador Full-Stack y Arquitecto de Software',
-      company: 'Rindegastos SPA',
+      title: 'Desarrollador Full-Stack',
+      company: 'Practicante en Rindegastos SPA',
       location: 'Santiago, Chile',
-      period: 'Presente - Proceso de Practica',
+      period: 'Terminado - Proceso de Practica (Diciembre 2025 - Marzo 2026)',
       description: [
         'Desarrollo de aplicaciones full-stack con tecnologías modernas',
-        'Implementación de APIs REST con Node.js',
+        'Aprendiendo la implementacion de APIs REST con Node.js',
         'Desarrollo de interfaces con React, y TypeScript',
-        'Gestión de bases de datos MySQL',
+        'Gestión de bases de datos MySQL y Oracle',
         'Manejo de Terminal y Linea de Comandos'
       ]
     },

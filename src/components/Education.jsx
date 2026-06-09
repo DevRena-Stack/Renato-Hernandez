@@ -14,6 +14,11 @@ const Education = () => {
       institution: 'Coding Dojo - Presencial',
       period: '2024',
       description: 'Curso de Full-Stack Development'
+    },
+    {
+      title: 'Ingenieria en Informatica',
+      description : 'En proceso de estudio, 1er año',
+      institution: 'Inacap'
     }
   ] 
 

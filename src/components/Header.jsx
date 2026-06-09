@@ -17,7 +17,7 @@ const Header = () => {
       <h2 className="header-title">{personalInfo.title}</h2>
       <p className="header-description">
         Desarrollador apasionado con experiencia en la construcción de aplicaciones 
-        full-stack listas para producción. Especializado en desarrollo frontend y con conocimientos en backend.
+        full-stack listas para producción. Especializado en desarrollo frontend y con conocimientos basicos en backend.
       </p>
       <div className="header-contact">
         <a href={`mailto:${personalInfo.email}`} className="contact-item">

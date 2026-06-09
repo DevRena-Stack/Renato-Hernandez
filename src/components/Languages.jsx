@@ -3,7 +3,7 @@ import './Languages.css'
 const Languages = () => {
   const languages = [
     { name: 'Español', level: 'Nativo' },
-    { name: 'Inglés', level: 'Intermedio' },
+    { name: 'Inglés', level: 'Basico' },
   ]
 
   return (
