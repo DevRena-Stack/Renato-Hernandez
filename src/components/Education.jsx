@@ -17,8 +17,9 @@ const Education = () => {
     },
     {
       title: 'Ingenieria en Informatica',
-      description : 'En proceso de estudio, 1er año',
-      institution: 'Inacap'
+      description: 'En proceso de estudio, 1er año',
+      institution: 'Inacap',
+      period: '2025 - Presente'
     }
   ] 
 

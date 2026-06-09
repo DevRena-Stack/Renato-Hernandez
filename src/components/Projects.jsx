@@ -14,7 +14,8 @@ const Projects = () => {
     },
     {
       name: 'Proyecto3',
-      description: ''
+      description: 'Proyecto en mente, para ayudar a la comunidad',
+      technologies: ['Python', 'Oracle', 'React']
     }
   ]
 
