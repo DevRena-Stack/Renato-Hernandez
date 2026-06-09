@@ -7,7 +7,7 @@ const Header = () => {
     email: 'rnto443@gmail.com',
     phone: '+56 9 7443 8032',
     location: 'Santiago, Chile',
-    linkedin: 'linkedin.com/in/tu-perfil',
+    linkedin: 'https://www.linkedin.com/in/renato-hernández-a08844372/',
     github: 'https://github.com/strughnot'
   }
 
