@@ -28,7 +28,7 @@ const Header = () => {
         </a>
         <span className="contact-item">📍 {personalInfo.location}</span>
         <a 
-          href={`https://${personalInfo.linkedin}`} 
+          href={`https://strughnot.github.io/Renato-Hernandez/docs/index.html`} 
           target="_blank" 
           rel="noopener noreferrer"
           className="contact-item"
