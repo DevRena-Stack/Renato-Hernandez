@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://strughnot.github.io/sitemap.xml
