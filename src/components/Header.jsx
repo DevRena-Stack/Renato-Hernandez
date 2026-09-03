@@ -7,7 +7,7 @@ const Header = () => {
     email: 'rnto443@gmail.com',
     phone: '+56 9 7443 8032',
     location: 'Santiago, Chile',
-    linkedin: '',
+    linkedin: 'https://www.linkedin.com/in/renato-hernández-a08844372/',
     github: 'https://github.com/DevRena-Stack'
   }
 
@@ -28,20 +28,20 @@ const Header = () => {
         </a>
         <span className="contact-item">📍 {personalInfo.location}</span>
         <a 
-          href={`https://strughnot.github.io/Renato-Hernandez/docs/index.html`} 
+          href={personalInfo.linkedin} 
           target="_blank" 
           rel="noopener noreferrer"
           className="contact-item"
         >
-          💼 {personalInfo.linkedin}
+          💼 LinkedIn
         </a>
         <a 
-          href={`https://${personalInfo.github}`} 
+          href={personalInfo.github} 
           target="_blank" 
           rel="noopener noreferrer"
           className="contact-item"
         >
-          💻 {personalInfo.github}
+          💻 GitHub
         </a>
       </div>
     </header>
